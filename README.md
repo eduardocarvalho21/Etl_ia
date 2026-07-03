@@ -1,4 +1,3 @@
-readme_content = """
 # Pipeline de ETL Inteligente: Geração de Mensagens de Marketing com IA
 
 Este projeto foi desenvolvido em parceria com a **DIO (Digital Innovation One)**, com o objetivo de criar um pipeline de ETL (Extract, Transform, Load) completo utilizando Python e Inteligência Artificial Generativa.
